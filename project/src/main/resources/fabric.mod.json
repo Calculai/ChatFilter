@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "chatfilter",
+  "version": "${version}",
+  "name": "Chat Filter",
+  "description": "Client-side mod that hides incoming chat messages containing configured words.",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.calculai.chatfilter.ChatFilterMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
