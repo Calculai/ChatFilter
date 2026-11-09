@@ -28,4 +28,4 @@ Launch Minecraft once to generate `.minecraft/config/chatfilter.txt`.
 
 Add one blocked word or phrase per line. Matching ignores capitalization and blocks a message if it contains any listed entry. Lines beginning with `#` are ignored.
 
-Restart Minecraft after editing the file. Filtering only affects your client; it does not stop the server from sending messages.
+Restart Minecraft after editing the file.
