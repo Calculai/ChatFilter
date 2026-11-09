@@ -14,6 +14,10 @@ Requires Java JDK 21 (64-bit) on Windows.
 
 The compiled mod will be placed in `output\chatfilter-1.0.0.jar`.
 
+## Download
+
+You can [download the mod JAR directly](output/chatfilter-1.0.0.jar) and place it in your Minecraft `mods` folder. 
+
 ## Install
 
 Use Minecraft: Java Edition 1.21.11 with Fabric Loader and Fabric API installed. Copy `output\chatfilter-1.0.0.jar` into your Minecraft `mods` folder.
